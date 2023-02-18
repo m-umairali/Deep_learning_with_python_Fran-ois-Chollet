@@ -1,4 +1,4 @@
-<img src="[https://www.thewindowsclub.com/wp-content/uploads/2017/11/Neural-Network.jpg](https://www.michaelchimenti.com/wp-content/uploads/2017/11/Deep-Neural-Network-What-is-Deep-Learning-Edureka.png)" alt="python">
+<img src="[https://www.thewindowsclub.com/wp-content/uploads/2017/11/Neural-Network.jpg" alt="python">
 
 
 # Deep Learning with Python by François Chollet.
