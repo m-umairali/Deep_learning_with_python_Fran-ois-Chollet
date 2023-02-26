@@ -1,7 +1,7 @@
 <img src="https://www.michaelchimenti.com/wp-content/uploads/2017/11/Deep-Neural-Network-What-is-Deep-Learning-Edureka.png" alt="python">
 
 
-# Deep Learning with Python by François Chollet.
+# Deep Learning with Python by François Chollet
 
 
 - Welcome to my Github repository where I will be documenting my journey of reading and learning from the book "Deep Learning with Python" by François Chollet. This book is a comprehensive guide to understanding and implementing deep learning using the popular Keras framework.
